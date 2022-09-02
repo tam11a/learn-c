@@ -1,1 +1,1 @@
-##### Basic programming exercises and solutions in C
+### Basic programming exercises and solutions in C
